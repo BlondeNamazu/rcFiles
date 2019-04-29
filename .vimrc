@@ -97,3 +97,5 @@ nnoremap sH <C-w>H
 nnoremap sw <C-w>w
 nnoremap ss :<C-u>sp<CR>
 nnoremap sv :<C-u>vs<CR>
+
+syntax on
