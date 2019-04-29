@@ -1,5 +1,5 @@
 alias mk='touch'
-alias gl='git log --oneline'
+alias gl='git log --oneline --decorate --tags --remotes --branches'
 alias pbc='xsel -bi'
 alias pbp='xsel -bo'
 alias com='g++ -std=c++14'
