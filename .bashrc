@@ -17,8 +17,8 @@ function beginpc() {
   cd "dir-${type}"
   mkdir $name;
   cd $name;
-  cp $HOME/Documents/Atcoder/tmp.cpp ./amain.cpp
-  cp $HOME/Documents/Atcoder/tmp.cpp ./bmain.cpp
-  cp $HOME/Documents/Atcoder/tmp.cpp ./cmain.cpp
-  cp $HOME/Documents/Atcoder/tmp.cpp ./dmain.cpp
+  cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./amain.cpp
+  cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./bmain.cpp
+  cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./cmain.cpp
+  cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./dmain.cpp
 }
