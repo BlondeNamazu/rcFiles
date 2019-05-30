@@ -1,0 +1,1 @@
+pbp | $(pwd)/a.out
