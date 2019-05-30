@@ -21,4 +21,6 @@ function beginpc() {
   cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./bmain.cpp
   cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./cmain.cpp
   cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./dmain.cpp
+  cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./emain.cpp
+  cp $HOME/Documents/Atcoder/tmp/tmp.cpp ./fmain.cpp
 }
